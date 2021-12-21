@@ -1,0 +1,12 @@
+{
+  "name": "sample_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "engines": {
+    "node": "16.x"
+  },
+  "devDependencies": {
+    "vue": "^2.6.14"
+  }
+}
