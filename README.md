@@ -7,7 +7,7 @@ Analyze project directory's dependency spec.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem "depec", git: "git@github.com:cc-kawakami/depec.git", tag: "v0.1.0"
+gem "depec", github: "cc-kawakami/depec", tag: "v0.1.0"
 ```
 
 And then execute:
@@ -17,7 +17,7 @@ And then execute:
 Or:
 
     $ gem install specific_install
-    $ gem specific_install git@github.com:cc-kawakami/depec.git v0.1.0
+    $ gem specific_install https://github.com/cc-kawakami/depec.git v0.1.0
 
 ## Usage
 
